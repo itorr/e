@@ -38,27 +38,6 @@ var 易网页=function(){
 
 	var 
 	转换=function(文本){
-		return 文本.replace(/<(\/?)([\u4e00-\u9fa5]+)/g,function(整段文本,是否结束标签,中文标签名){
-			var
-			预输出的标签名='div'
-
-			if(预转换标签[中文标签名])
-				预输出的标签名=预转换标签[中文标签名]
-
-			if(!是否结束标签){
-
-				return '<'+预输出的标签名+' class="'+中文标签名+'"'
-
-			}else
-				return '</'+预输出的标签名
-		})
-	};
-
-
-
-
-	var 
-	转换=function(文本){
 		return 文本.replace(/(【)(、?)([\u4e00-\u9fa5]+)(.*?)(】)/g,function(整段文本,开始标签,是否结束标签,中文标签名,参数字段,结束标签){
 			var
 			预输出的标签名='div'
