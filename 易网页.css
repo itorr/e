@@ -1,9 +1,14 @@
+
+
 .头部{
 	text-align:center;
 	padding:1em;
 }
 .大标题{
 	font-size:3em;
+}
+.着重{
+	font-weight:800;
 }
 .大标题:before{
 	content:'「'
@@ -20,16 +25,20 @@
 }
 .引用:before{
 	content:attr(id);
-	position:absolute;top:.1em;left:.4em;
+	position:absolute;top:.2em;left:.4em;
 	color:#999;
 	font-size:12px;
 	text-indent:0;
+}
+
+.标题二{
+	margin:2em 0 0;
 }
 .段落{
 	text-indent:1em;
 }
 .有序列表{
-	padding:2em;
+	padding:1em 2em;
 }
 .列表项{
 	padding:.5em;
@@ -42,7 +51,6 @@
 	background:#222;
 	color:#FFF;
 }
-
 .代码{
 	background:#EEE;
 	color:#666;
@@ -50,6 +58,11 @@
 	padding:.2em .5em;
 	margin:0 .5em;
 	border-radius:.3em;
+}
+.删除{
+	opacity:.3;
+	font-size:.8em;
+	margin:0 -.3em;
 }
 .尾部{
 	padding:2em;
@@ -61,6 +74,10 @@
 	display:block;
 }
 
+.时间{
+	font-size:.8em;
+	color:#999;
+}
 
 
 body{
