@@ -44,9 +44,9 @@
 
 
 引用：
-1. [Standard Generalized Markup Language - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language#SHORTTAG)
-2. [SHORTTAGS – THE ODD SIDE OF HTML 4.01](https://www.w3.org/blog/2007/10/shorttags/)
-3. [Appendix B: Performance, Implementation, and Design Notes](https://www.w3.org/TR/html401/appendix/notes.html#h-B.3.7)
+Standard Generalized Markup Language - Wikipedia, the free encyclopedia https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language#SHORTTAG
+SHORTTAGS – THE ODD SIDE OF HTML 4.01 https://www.w3.org/blog/2007/10/shorttags/
+Appendix B: Performance, Implementation, and Design Notes https://www.w3.org/TR/html401/appendix/notes.html#h-B.3.7
 
 
 ##男同性恋转发交流平台地址
