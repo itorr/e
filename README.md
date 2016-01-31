@@ -35,6 +35,20 @@
 1. 原有的 `【、标签】` 结束语法
 2. 新增的 `【标签。】` 结束语法
 
+
+##增加两种「闭合任意标签」标示符
+
+1. 通过【、】、【。】标示符，可「闭合前一个打开的标签」。
+
+感谢 [@Arthur2e5](https://github.com/Arthur2e5) 的 Issues https://github.com/itorr/e/issues/4
+
+
+引用：
+[Standard Generalized Markup Language - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language#SHORTTAG)
+[SHORTTAGS – THE ODD SIDE OF HTML 4.01](https://www.w3.org/blog/2007/10/shorttags/)
+[Appendix B: Performance, Implementation, and Design Notes](https://www.w3.org/TR/html401/appendix/notes.html#h-B.3.7)
+
+
 ##男同性恋转发交流平台地址
 
 [http://github.com/itorr/e](http://github.com/itorr/e)

@@ -79,6 +79,12 @@
 	color:#999;
 }
 
+.引用列表{
+	font-size:.8em;
+}
+.引用列表 .列表项{
+	padding:.2em;
+}
 
 body{
 	max-width:38em;
