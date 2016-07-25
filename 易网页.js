@@ -87,7 +87,6 @@ var 易网页=function(){
 			return '请在标签内通过<xmp>标签包裹易网页语言'
 
 		易网页语言=易网页语言[0].innerHTML
-		console.log(转换(易网页语言))
 		网页标签.innerHTML=转换(易网页语言)
 	}
 
