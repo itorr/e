@@ -50,7 +50,7 @@
 3. [Appendix B: Performance, Implementation, and Design Notes](https://www.w3.org/TR/html401/appendix/notes.html#h-B.3.7)
 
 
-##男同性恋转发交流平台地址
+##男同性恋集线器 交流平台地址
 
 [http://github.com/itorr/e](http://github.com/itorr/e)
 
