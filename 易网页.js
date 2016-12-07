@@ -84,7 +84,7 @@ var 易网页=function(){
 	},
 	变身=function(网页标签){
 		if(!(网页标签=网页标签.getElementsByTagName('xmp')))
-			return console.log('请在标签内通过<xmp>标签包裹易网页语言');
+			return console.log('请在标签内通过<xmp>标签包裹易网页语言')
 
 		网页标签.innerHTML=转换(网页标签[0].innerHTML)
 	}
