@@ -15,6 +15,7 @@ var 易网页=function(){
 		'标题七':'h7',
 		'块':'div',
 		'段落':'p',
+		'文本':'span',
 		'着重':'strong',
 		'引用':'blockquote',
 		'删除':'del',
@@ -31,7 +32,9 @@ var 易网页=function(){
 		'超链接':'a',
 		'图像':'img',
 		'样式':'style',
-		'样式表':'link rel="stylesheet"'
+		'样式表':'link rel="stylesheet"',
+		'脚本':'script',
+		'框架':'iframe'
 	},
 	预转换参数名={
 		'唯一名称':'id',
